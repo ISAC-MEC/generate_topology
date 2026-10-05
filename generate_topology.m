@@ -10,7 +10,6 @@ NUM_TASK = 5;
 MAX_DISTANCE = 1000;       % m
 
 
-rng('shuffle');
 
     max_try = 1e6;
     success = false;
